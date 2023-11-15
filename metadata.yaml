@@ -1,0 +1,33 @@
+_repo: L-enfant-prodigue-du-Vesinet_72023
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernard, Tristan
+    alias: Bernard, Paul
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '55824'
+    url: http://www.gutenberg.org/2009/agents/55824
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Tristan_Bernard
+    - https://fr.wikipedia.org/wiki/Tristan_Bernard
+description: ''
+gutenberg_issued: '2023-11-04'
+identifiers:
+  gutenberg: '72023'
+language: fr
+pgterms:marc904: http://archive.org/details/lenfantprodigued00bern
+pgterms:marc905: 20230613123358bernard
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aParis :$bErnest Flammarion, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'enfant prodigue du Vésinet
+url: http://www.gutenberg.org/ebooks/72023
